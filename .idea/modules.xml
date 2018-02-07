@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/hashmap-ring.iml" filepath="$PROJECT_DIR$/.idea/modules/hashmap-ring.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/hashmap-ring_main.iml" filepath="$PROJECT_DIR$/.idea/modules/hashmap-ring_main.iml" group="hashmap-ring" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/hashmap-ring_test.iml" filepath="$PROJECT_DIR$/.idea/modules/hashmap-ring_test.iml" group="hashmap-ring" />
+    </modules>
+  </component>
+</project>

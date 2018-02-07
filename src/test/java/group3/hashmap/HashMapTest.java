@@ -86,9 +86,18 @@ public class HashMapTest
 	@Test
 	public void put() throws Exception
 	{
-		instance.put(0, 156);
-		assertEquals(156, (long) instance.get(0));
-		assertEquals(156, (long) instance.put(0, 200));
+//		instance.put(0, 156);
+//		assertEquals(156, (long) instance.get(0));
+//		assertEquals(156, (long) instance.put(0, 200));
+
+		instance = new HashMap<>(10);
+		instance.put(2, 1);
+		instance.put(12, 2);
+		instance.put(22, 3);
+		instance.put(32, 4);
+		instance.remove(12);
+		instance.put(32, 5);
+		instance.clear();
 	}
 
 	@Test(expected = NullPointerException.class)

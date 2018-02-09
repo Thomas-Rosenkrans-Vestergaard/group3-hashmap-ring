@@ -1,4 +1,4 @@
-package group3.hashmap;
+package group3.hashmapring;
 
 import org.junit.Before;
 import org.junit.Test;
@@ -16,12 +16,6 @@ public class HashMapTest
 	public void setUp()
 	{
 		this.instance = new HashMap<>();
-	}
-
-	@Test
-	public void test()
-	{
-		System.out.println(-3 % 7);
 	}
 
 	@Test

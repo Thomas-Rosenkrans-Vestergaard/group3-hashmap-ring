@@ -176,3 +176,6 @@ gradle-app.setting
 
 
 # End of https://www.gitignore.io/api/java,gradle,eclipse,netbeans,intellij
+.idea/inspectionProfiles/
+src/main/resources/
+src/test/resources/

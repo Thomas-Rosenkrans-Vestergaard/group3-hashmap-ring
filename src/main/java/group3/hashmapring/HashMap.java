@@ -1,4 +1,4 @@
-package group3.hashmap;
+package group3.hashmapring;
 
 import java.util.*;
 

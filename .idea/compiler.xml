@@ -4,6 +4,8 @@
     <bytecodeTargetLevel>
       <module name="hashmap-ring_main" target="1.8" />
       <module name="hashmap-ring_test" target="1.8" />
+      <module name="hashmapring-ring_main" target="1.8" />
+      <module name="hashmapring-ring_test" target="1.8" />
     </bytecodeTargetLevel>
   </component>
 </project>
